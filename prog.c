@@ -1,5 +1,5 @@
 /* prog.c */
-
+/* Commentaire */
 int NN = 0xffff;
 char CC[8] = "charlot";
 
